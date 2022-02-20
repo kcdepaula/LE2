@@ -11,7 +11,7 @@
         <a href="EggFriedRice.php"><li>Egg Fried Rice</li></a>
         <a href="PineappleChicken.php"><li>Pineapple Chicken</li></a>
         <a href="SalmonInTheOven.php"><li>Salmon in the Oven</li></a>
-        <a href="VegetableRice.php"><li>Vegetarian Rice</li></a>
+        <a href="VegetarianRice.php"><li>Vegetarian Rice</li></a>
         </ul>
         </body>
 
