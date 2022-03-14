@@ -1,7 +1,9 @@
 body {
-    background-image: url(bgpic.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+        background-image: url(bgpic.jpg);
+			position: relative;
+			background-repeat: no-repeat;
+	    background-size: 100% 100vh;
+			background-attachment: fixed;
 }
 #mainbox {
     width:100%;
