@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
-    <title>My Home Page</title>
-    <head><h1>Welcome To My Website! My Name is Lowelyn Ann B. De Paula <3 </h1></head>
+  <head>
+    <title> My Home Page </title>
+  </head>
   <body>
+  <h1> Welcome to My Website! I am Lowelyn Ann! </h1>
   <ul>
-      <li><a href="index.php">HOME</a></li>
-      <li><a href="Recipes.php">Learning Task 2</a></li>
-    </ul>
+    <li><a href="index.php" target="_blank"> HOME </a></li>
+    <li><a href="/LT2/Recipes.html" target= "_blank"> LEARNING TASK 2 </a> </li>
+    <li><a href="/LT3/index.html" target= "_blank"> LEARNING TASK 3 </a> </li>
+  </ul>
   </body>
-
 </html>
