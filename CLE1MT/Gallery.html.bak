@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Gallery </title>
+</head>
+	 <link rel="stylesheet" type="text/css" href="Gallery.css"/>
+	 <div class="title">
+	 <body><h1>Gallery<h1></body>
+	 </div>
+		<ul>
+			<li><a href="Poverty.html">Home</a></li>
+			<li><a href="Action.html">Actions</a></li>
+			<li><a href="Gallery.html">Gallery</a></li>
+			<li><a href="AboutUs.html">About Us</a></li>
+		</ul>
+		<hr />
+		<h2><div class="title2">Poverty in the Philippines</h2>
+		</div>
+		<div class="row">
+		<div class="column">
+		<div class="img1">
+			<img src="pov1.jpg">
+			</div>
+			<div class="img2">
+			<img src="pov2.jpeg">
+			</div>
+			<div class="img3">
+			<img src="pov3.jpg">
+			</div> 
+			<div class="img4">
+			<img src="pov4.jpg">
+			</div>
+			<div class="img5">
+			<img src="pov5.jpg">
+			</div>
+			<div class="img6">
+			<img src="pov6.jpg">
+			</div>
+			<div class="img7">
+			<img src="pov7.jpg">
+			</div>
+			<div class="img8">
+			<img src="pov8.jpg">
+			</div>
+		<div class="column">
+			<div class="img9">
+			<img src="pov9.jpg">
+			</div>
+			<div class="img10">
+			<img src="pov10.jpg">
+			</div>
+			<div class="img11">
+			<img src="pov11.jpg">
+			</div>
+			<div class="img12">
+			<img src="pov12.jpg">
+			</div>
+			<div class="img13">
+			<img src="pov13.jpg">
+			</div>
+			<div class="img14">
+			<img src="pov14.jpg">
+			</div>
+			<div class="img15">
+			<img src="pov15.jpg">
+			</div>
+			
+			
+			</div>
+</html>
