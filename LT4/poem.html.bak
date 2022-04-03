@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Poem </title>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+
+	</head>
+	<body>
+	<center>
+	<div class="text">
+	<center>
+		<div class="container">
+			<div class="card">
+					<div class="font-one"> <b> With Anyone Else </b> </div>
+					<div class="font-two"> <i> by Lang Leav </i> </div>
+					<div class="font-three"> You came into my life and made everything </div>
+					<div class="font-three"> else feel like a rehearsal. </div>
+					<div class="font-three"> Love always came to me as a question, </div>
+					<div class="font-three"> but with you, </div>
+					<div class="font-three"> it felt like an answer. </div>
+					<div class="font-three"> I didn't know I had put up walls, </div>
+					<div class="font-three"> until you brought them crashing down. </div>
+					<div class="font-three"> I couldn't figure out why love was different with you, </div>
+					<div class="font-three"> until I realized it hadn't been love with anyone else. </div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
